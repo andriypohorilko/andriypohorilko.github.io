@@ -17,7 +17,7 @@ permalink: julia_lyrics/
 <iframe
     width="640"
     height="480"
-    src="https://www.youtube.com/embed/bl4yZiCC0hs?autoplay=1&loop=1&mute=1&modestbranding=1&playsinline=1&showinfo=0"
+    src="https://www.youtube.com/embed/bl4yZiCC0hs?autoplay=1&loop=1&mute=1&modestbranding=1&playsinline=1&playlist=bl4yZiCC0hs"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
