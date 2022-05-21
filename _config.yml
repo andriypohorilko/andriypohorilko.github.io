@@ -21,7 +21,7 @@
 title: Andriy Pohorilko
 email: andriy.pohorilko@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  In case you find any bugs 😊 or have any suggestions on improving my apps, please write to me. With thanks, Musician and iOS/Mac developer Andriy Pohorilko
+  Andriy Pohorilko, iOS and macOS developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andriypohorilko
