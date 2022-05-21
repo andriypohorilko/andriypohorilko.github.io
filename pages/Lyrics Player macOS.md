@@ -128,7 +128,7 @@ To see the Shortcuts window, go to **LyricsPlayer** -> **Preferences**.
 
 Each shortcut has some default value which you can edit, delete or restore to default.
 
-To edit a shortcut, press to any of them and press your custom key or keys. If there is no conflict your new shortcut will activates. Otherwise, “Conflict” label will appear and both edited shortcut and conflicted one will be disabled. To remove conflict, enter any other shortcut, delete shortcut or assign **Default** value.
+To edit a shortcut, press to any of them and press your custom key or keys. If there is no conflict your new shortcut will activates. Otherwise, Conflict label will appear and both edited shortcut and conflicted one will be disabled. To remove conflict, enter any other shortcut, delete shortcut or assign **Default** value.
 
 ___
 
